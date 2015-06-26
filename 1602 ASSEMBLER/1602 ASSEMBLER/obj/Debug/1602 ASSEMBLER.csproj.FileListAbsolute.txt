@@ -1,0 +1,9 @@
+c:\users\workstation\documents\visual studio 2013\Projects\1602 ASSEMBLER\1602 ASSEMBLER\bin\Debug\1602 ASSEMBLER.exe.config
+c:\users\workstation\documents\visual studio 2013\Projects\1602 ASSEMBLER\1602 ASSEMBLER\bin\Debug\1602 ASSEMBLER.exe
+c:\users\workstation\documents\visual studio 2013\Projects\1602 ASSEMBLER\1602 ASSEMBLER\bin\Debug\1602 ASSEMBLER.pdb
+c:\users\workstation\documents\visual studio 2013\Projects\1602 ASSEMBLER\1602 ASSEMBLER\obj\Debug\1602 ASSEMBLER.csprojResolveAssemblyReference.cache
+c:\users\workstation\documents\visual studio 2013\Projects\1602 ASSEMBLER\1602 ASSEMBLER\obj\Debug\_1602_ASSEMBLER.Form1.resources
+c:\users\workstation\documents\visual studio 2013\Projects\1602 ASSEMBLER\1602 ASSEMBLER\obj\Debug\_1602_ASSEMBLER.Properties.Resources.resources
+c:\users\workstation\documents\visual studio 2013\Projects\1602 ASSEMBLER\1602 ASSEMBLER\obj\Debug\1602 ASSEMBLER.csproj.GenerateResource.Cache
+c:\users\workstation\documents\visual studio 2013\Projects\1602 ASSEMBLER\1602 ASSEMBLER\obj\Debug\1602 ASSEMBLER.exe
+c:\users\workstation\documents\visual studio 2013\Projects\1602 ASSEMBLER\1602 ASSEMBLER\obj\Debug\1602 ASSEMBLER.pdb
